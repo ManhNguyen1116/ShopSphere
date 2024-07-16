@@ -1,0 +1,11 @@
+id,category,description,image_url,name,price
+1,Electronics,Large Gaming Mouse,https://m.media-amazon.com/images/I/51XO3LBZEJL._AC_SY679_.jpg,Razer Deathadder V3 Wired,64.39
+2,Pet Food,12lbs of dry cat food,https://m.media-amazon.com/images/I/41CBIwEwKGL._SS142_.jpg,Large Bag of Dry Cat Food,30.95
+3,Electronics,Medium Gaming Mouse,https://m.media-amazon.com/images/I/51uy8gOG-iL.__AC_SX300_SY300_QL70_FMwebp_.jpg,Logitech G Pro X Superlight,109.99
+4,Electronics,Small Gaming Mouse,https://m.media-amazon.com/images/I/51bc6WTIp3L.__AC_SX300_SY300_QL70_FMwebp_.jpg,Endgame Gear OP1,64.99
+5,Electronics,Small Gaming Mouse,https://m.media-amazon.com/images/I/31+KRuDd2VL._AC_SX466_.jpg,G-Wolves HTS+,169.99
+6,Food,100g of Instant Coffee,https://m.media-amazon.com/images/I/518gYR8f7qL._SX300_SY300_QL70_FMwebp_.jpg,Instant Coffee,27.68
+7,Pet Food,24 cans of wet cat food,https://m.media-amazon.com/images/I/81K7YvcfLpL.__AC_SX300_SY300_QL70_FMwebp_.jpg,Wet Cat Food,17.09
+8,Pet Food,7lbs of dry cat food,https://m.media-amazon.com/images/I/71VEb2mAHXL._AC_SX679_.jpg,Small Bag of Dry Cat Food,24.99
+9,Electronics,Small Gaming Mouse,https://m.media-amazon.com/images/I/617Jbe4B1fL._AC_SX466_.jpg,G-Wolves HTX,129
+10,Electronics,Medium Gaming Mouse,https://m.media-amazon.com/images/I/61BJ2MpgTTL._AC_SX466_.jpg,Razer Viper V3 Pro,159.99
